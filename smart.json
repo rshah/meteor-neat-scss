@@ -1,0 +1,14 @@
+{
+    "name": "neat-scss",
+    "description": "Neat - A lightweight semantic grid framework for Sass and Bourbon (SCSS version).",
+    "homepage": "https://github.com/rshah/meteor-neat",
+    "author": "Reza Fatahilah Shah",
+    "version": "1.5.1",
+    "git": "https://github.com/rshah/meteor-neat.git",
+    "packages": {
+      "scss": "",
+      "bourbon-scss": {
+        "git": "https://github.com/rshah/meteor-bourbon-scss.git"
+      }
+    }
+}
