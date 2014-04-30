@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    api.use(['scss','bourbon'], 'client');
+    api.use(['scss','bourbon-scss'], 'client');
 });
